@@ -1,0 +1,9 @@
+package main
+
+import (
+    "hongbo.com/test_proj/util"
+    L "hongbo.com/test_proj/lib/list"
+    "hongbo.com/test_proj/lib/ident"
+    Q "hongbo.com/test_proj/lib/queue"
+    L2 "hongbo.com/test_proj/lib/list2"
+)

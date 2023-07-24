@@ -1,0 +1,9 @@
+(cram
+ (deps
+  %{bin:moonrun}
+  %{bin:moonc}
+  %{bin:mooninfo}
+  (glob_files_rec ../*.moon)
+  ../build/build.mk
+  ../check/check.mk
+  ../tast/build.mk))
